@@ -1,3 +1,5 @@
+/* Author: HyungJune Lee */
+
 // Do not remove the include below
 #include "LED_test.h"
 
